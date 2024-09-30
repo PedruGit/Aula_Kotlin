@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Git</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Desenvolvimento App</string>
+    <string name="second_fragment_label">Aula 3DS2</string>
+    <string name="next">Proximo</string>
+    <string name="previous">Anterior</string>
+
+    <string name="lorem_ipsum">
+        Aprendendo Desenvolvimento de Aplicativos
+    </string>
+</resources>
